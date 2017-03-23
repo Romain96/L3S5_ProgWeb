@@ -37,7 +37,7 @@ Un aministrateur peut :
 
 ## English
 
-Small universitary project developped as part of the course of "Databases and web programmation".
+Small academic project developped as part of the course of "Databases and web programmation".
 The objective of the project was to code a video replay website (both frontend and backend).
 Un preliminary project consisting of the creation of the database in Oracle SQL had been previously realised.
 
